@@ -1,4 +1,4 @@
-# Teste-Klingon
+# Teste de Klingon
 
 ## Arqueólogos encontraram um pergaminho com os seguintes textos:
 
